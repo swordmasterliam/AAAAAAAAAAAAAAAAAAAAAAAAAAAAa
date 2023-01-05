@@ -220,3 +220,4 @@ function mostw() {
 	document.getElementById("button4").innerHTML = "On";
 	console.log('most wrong...')
 }
+start()
